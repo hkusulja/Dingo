@@ -10,6 +10,8 @@ Prostor Kajzerice je omeđen s:
  * S zapadne strane - uključuje (novu) cestu prema Laništu / Arena centru
 Pod sve spomenuto spada i cijeli Hipodrom, Zagrebački Velesajam, INA zgrada, rotor, Jysk/Spar/mcdonalds, nasip, mostovi Jadranski, pješački plavi, zeleni/hendrix željeznički i most slobode....
 
+![MO Kajzerica](MO_Kajzerica.jpg)
+
 # Komunalno
 ## Odvoz smeća
 Zagrebački Holding - podružnica Čistoća radi redovni odvoz za kućanstva prema rasporedu:
