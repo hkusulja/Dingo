@@ -1,8 +1,7 @@
 ﻿# Proces s novorođenčem
 
-Pretpostavka da je dijete rođeno živo i zdravo.
-Za područje Grada Zagreba.
-Ažurirano, 17.6.2019.
+Pretpostavka da je dijete rođeno živo i zdravo. Za područje Grada Zagreba.
+Ažurirano, 1.8.2019.
 
 ## Službena/Obvezna Prijava rođenja djeteta
 
@@ -31,8 +30,7 @@ Primjerice za Grad Zagreb, može se putem sustava [e-bebe](https://e-pisarnica.z
 
 ## Dolazak kući i patronažna sestra
 
-Patronažnoj sestri se automatski pojavljue novorođena beba u sustavu te kontaktira roditelje, no poželjno je da su roditelj prije obavijestili sestru te se upoznali.
-Patronažna sestra dolazi više puta u stan, pomaže, educira i to se ponavlja dok ona zaključi da ima potrebe za istim
+Patronažnoj sestri se automatski pojavljuje novorođena beba u sustavu te kontaktira roditelje, no poželjno je da su roditelj prije obavijestili sestru te se upoznali. Moguće je da roditelji su prijavljeni na drugoj adresi gdje stvarno žive pa treba provjeriti da su adrese sve ispravne. Patronažna sestra dolazi više puta u stan, pomaže, educira (dojenje, držanje), radi osnovnu zdravstvenu provjeru bebe (težina i sl.) i to se ponavlja dok ona zaključi da ima potrebe za istim (cca 3 tjedna).
 
 ## Odabir pedijatra
 
@@ -45,7 +43,4 @@ Na prvom pregledu određuje se dalje termini cjepljenja, i redovni pregled kukov
 * [DM](https://www.dm-drogeriemarkt.ba/ba_homepage/bebe_djeca/dm_babybonus_vide/601932/prijava.html) - Poklon paket (pelene, vlažne maramice...)
 * MÜLLER - 15% popusta kod sljedeće kupovine
 * Ljekarne švaljek - Poklon za novorođenče, najaviti se telefonom i osobno preuzeti s otpusnim pismom
-
-### HiPP Hrvatska BabyClub
-
-Potrebna [registracija](https://www.hipp.hr/babyclub/registriraj-se/)
+* HiPP Hrvatska BabyClub - Potrebna [registracija](https://www.hipp.hr/babyclub/registriraj-se/)
