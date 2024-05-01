@@ -21,7 +21,7 @@ Ažurirano, 19.8.2022.
 ## Opcionalno možete izvaditi i osobnu iskaznicu za dijete
 
 1. Donijeti u MUP isprintanu sliku djeteta (nije potrebno uplatiti biljege, prva osobna iskaznica je besplatna, a zahtjev može predati jedan roditelj, bez potrebne pismene suglasnosti drugog roditelja).
-[Osobna iskaznica](https://gov.hr/moja-uprava/drzavljanstvo-i-isprave/isprave/osobna-iskaznica/296) traje 5 godina i ne sadržava certifikat (djeca do 5g nemaju pravo potpisa pa ni certifikata)
+[Osobna iskaznica](https://gov.hr/moja-uprava/drzavljanstvo-i-isprave/isprave/osobna-iskaznica/296) traje 5 godina i sadržava samo identifikacijski certifikat (djeca do 5g nemaju pravo potpisnog certifikata)
 
 ## Opcionalno, regionalni poticaji
 
